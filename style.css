@@ -1,0 +1,56 @@
+body{
+	background:#DCDCDC;
+}
+
+#banner {
+	width: 100%;
+}
+
+.principal {
+	padding: 30px;
+}
+
+.titulo-centralizado {
+	text-align:center;
+	height: 100px;
+}
+
+p {
+	text-align:center;
+	font-size:20px;
+}
+
+#numero {
+	font-size:30px
+}
+
+strong {
+	color: darkred;
+}
+
+h3 {
+	margin-top: 100px;
+	margin-left: 56px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width:20%;
+	margin-right:15%;
+}
+
+.itens {
+	font-style:italic;
+	font-size:20px;
+	font-weight:bold;
+	padding: 20px;
+}
+
+.jogos {
+	background: darkred;
+}
+
+.listagames {
+	width: 55%;
+}
